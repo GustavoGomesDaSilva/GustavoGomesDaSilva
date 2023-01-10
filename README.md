@@ -22,7 +22,9 @@
   <!--<img align="right" alt="Gu-Batman" src="https://cdn.discordapp.com/attachments/625383734073360401/625383735185113130/1062164289860927609/hi.gif"> -->
  
 </div>
- ## 
+ 
+  ## 
+ 
 <div> 
   
   <a href="https://instagram.com/ggustavo_goomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -32,6 +34,6 @@
 
 </div>
  
-  [Snake animation][(https://github.com/Gugzera)
+  [Snake animation][(https://github.com/Gugzera/Gugzera/blob/output/github-contribution-grid-snake.svg)
  
  
