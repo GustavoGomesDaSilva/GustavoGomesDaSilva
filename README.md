@@ -7,8 +7,8 @@
 
 <div>
 <a href="https://github.com/GustavoGomesDaSilva">
- <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Gugzera&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true" />
- <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzera&layout=compact&langs_count=16&theme=apprentice" />
+ <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=GustavoGomesDaSilva&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true" />
+ <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGomesDaSilva&layout=compact&langs_count=16&theme=apprentice" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -34,6 +34,6 @@
 
 </div>
  
-  ![Snake animation](https://github.com/Gugzera/Gugzera/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GustavoGomesDaSilva/GustavoGomesDaSilva/blob/output/github-contribution-grid-snake.svg)
  
  
