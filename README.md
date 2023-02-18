@@ -6,7 +6,7 @@
  <p></p>
 
 <div>
-<a href="https://github.com/Gugzera">
+<a href="https://github.com/GustavoGomesDaSilva">
  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Gugzera&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true" />
  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugzera&layout=compact&langs_count=16&theme=apprentice" />
 </div>
