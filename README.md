@@ -1,6 +1,6 @@
 ### Salve👋
 
-- Me chamo Gustavo Gomes, tenho 19 anos, e sou programador full-stack ⚡
+- Me chamo Gustavo Gomes, tenho 19 anos ⚡
  <p></p>
 - Atualmente, trabalho de estágiario na Atos como DevOps, estudo ADS na SPTECH, e Sou formado em programação WEB JAVA pelo Senac/Instituto PROA e Desenvolvimento de sistemas pela Etec de Itaquera;
  <p></p>
